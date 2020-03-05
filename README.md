@@ -1,1 +1,3 @@
-# PCFActionableCaseCards
+With UCI in place, Dynamics 365 is already providing us a rich UI and UX. Thinking about UX, Card based design is one of the tangible way to show relevant information on screen. For instance, Facebook is nothing but endless stream of cards. In reinventing the wheel, the intuitive PCF powered Actionable Case Cards was designed to follow a minimalistic approach by showing the relevant, digestible, actionable information of the case in a card format. 
+
+Users gets to see the needed information of the case on a card and take further action like resolving the case right within the card. In this PCF control, the case resolution dialog is customized to capture useful information before resolving the case. 
